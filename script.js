@@ -7,18 +7,18 @@
 // Create your variables here and log each one to the console.
 
 let eventName = "CodeFest";
-// let speakerName = "";
-// let roomNumber = 204;
-// let attendeeName = "";
+let speakerName = "";
+let roomNumber = 204;
+let attendeeName = "";
 
 console.log(eventName);
-console.error("This is my first JavaScript error!");
+
 
 // ── Challenge 2: Personalized Greetings ─────────────────────
 // Combine your variables with strings to build welcome messages.
 
-// console.log("Welcome " + attendeeName + " to " + eventName + "!");
-// console.log("Your session is in Room " + roomNumber + ".");
+console.log("Welcome " + attendeeName + " to " + eventName + "!");
+console.log("Your session is in Room " + roomNumber + ".");
 
 // ── Challenge 3: Build Functions ────────────────────────────
 // Create at least two functions and call them below.

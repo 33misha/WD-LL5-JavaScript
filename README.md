@@ -41,7 +41,7 @@ Remember: every JavaScript project starts the same way:
 Follow the steps below in order.
 
 ---
-
+\
 ✅ Step 1: Create `script.js`
 
 Inside your project, create a new file named: 'script.js'
