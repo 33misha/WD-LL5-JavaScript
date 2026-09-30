@@ -20,6 +20,15 @@ console.log(eventName);
 console.log("Welcome " + attendeeName + " to " + eventName + "!");
 console.log("Your session is in Room " + roomNumber + ".");
 
+
+
+alert("MISHA");
+alert("sam");
+alert("prajit");
+alert("malachi");
+alert("robert");
+alert("david");
+
 // ── Challenge 3: Build Functions ────────────────────────────
 // Create at least two functions and call them below.
 
